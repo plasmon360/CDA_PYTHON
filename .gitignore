@@ -1,0 +1,5 @@
+*.dat
+*.pyc
+*.txt
+*.exe
+**/.idea
